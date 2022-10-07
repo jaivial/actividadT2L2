@@ -16,3 +16,6 @@ Esta és l’ última línia
 
 Actividad 4
 grep “esta” demo.txt
+
+Actividad 5
+grep -i “línia” demo.txt
