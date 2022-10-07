@@ -34,3 +34,6 @@ grep -Er “Línia|Totes”
 
 Actividad 9
 grep -r “línia” | wc -l
+
+Actividad 10 
+grep -rn “línia” 
