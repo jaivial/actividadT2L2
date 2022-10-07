@@ -13,3 +13,6 @@ Esta Línia Té Totes Les Primeres Lletres De Cada Paraula En Majúscules
 
 La línia de dalt està en blanc
 Esta és l’ última línia
+
+Actividad 4
+grep “esta” demo.txt
