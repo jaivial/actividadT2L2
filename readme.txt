@@ -28,3 +28,6 @@ grep -r “línia”
 
 Actividad 7
 grep -Er “línia|blanc” 
+
+Actividad 8
+grep -Er “Línia|Totes”
