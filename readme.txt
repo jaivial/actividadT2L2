@@ -26,3 +26,5 @@ cd prova
 cp demo.txt demo2.txt
 grep -r “línia” 
 
+Actividad 7
+grep -Er “línia|blanc” 
