@@ -19,3 +19,10 @@ grep “esta” demo.txt
 
 Actividad 5
 grep -i “línia” demo.txt
+
+Actividad 6
+mkidr prova | mv demo.txt prova
+cd prova
+cp demo.txt demo2.txt
+grep -r “línia” 
+
